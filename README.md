@@ -9,6 +9,6 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 Part 3
 What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis? Testing p_value
+What is the null hypothesis or alternative hypothesis? The alterantive hypothesis true mean is not equal to 1500(according to the reading)
 What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test? data needed are Suspension_coil, Manufactoring_Lot and PSI
+What data is needed to run the statistical test? The Data needed are Suspension_coil, Manufactoring_Lot and PSI
